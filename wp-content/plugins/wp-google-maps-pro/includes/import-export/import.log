@@ -1,0 +1,8 @@
+[LOG] 2024-01-10 12:52:37 :- Loading URL https://admin.nopucesperar.org/npedata.geojson
+[LOG] 2024-01-10 12:52:40 :- Received 2152141 characters
+[LOG] 2024-01-10 12:52:40 :- Attempting to parse GeoJSON
+[LOG] 2024-07-30 02:42:27 :- Loading file C:\xampp\htdocs\enmaps/wp-content/uploads/2024/07/aseancentreforbiodiversity.wpgooglemaps.2024-06-20.json
+[LOG] 2024-07-30 02:42:27 :- Attempting to parse JSON
+[LOG] 2024-07-30 02:42:32 :- Loading file C:\xampp\htdocs\enmaps/wp-content/uploads/2024/07/aseancentreforbiodiversity.wpgooglemaps.2024-06-20.json
+[LOG] 2024-07-30 02:42:32 :- Attempting to parse JSON
+[LOG] 2024-07-30 02:42:33 :- Import completed
